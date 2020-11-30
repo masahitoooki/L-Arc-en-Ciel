@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>ラルク</title>
-    <link rel="stylesheet" href="chapter2_exercise.css">
+
 </head>
 </html>
 <body>
